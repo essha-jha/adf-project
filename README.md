@@ -194,8 +194,8 @@ Feel free to submit a PR or open an issue.
 ---
 
 ## **📬 Contact**
-**Isha Jha**  
+**Essha Jha**  
 Product Manager • Data & Cloud Engineering Background  
-📧 jhaisha995@gmail.com  
-🔗 https://www.linkedin.com/in/isha-jha-85398892
+📧 esshajha55@gmail.com
+🔗 https://www.linkedin.com/in/essha-jha/
 
